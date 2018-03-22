@@ -1,0 +1,6 @@
+framework module QQXNZ {
+  umbrella header "QQXNZ.h"
+
+  export *
+  module * { export * }
+}
